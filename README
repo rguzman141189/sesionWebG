@@ -4,3 +4,15 @@ HTML CSS Support
 
 
 Instalar GitBash en windows
+
+git init
+git add . -> instrucción para agregar los archivos necesarios a mi control de versión 
+git add index.html
+
+git commit -m "Comentario"
+
+git push origin master
+
+git branch -> crea una rama local
+git fetch -a -> actualizar
+git fetch -p -> Aplica todos los cambios
