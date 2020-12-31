@@ -16,3 +16,5 @@ git push origin master
 git branch -> crea una rama local
 git fetch -a -> actualizar
 git fetch -p -> Aplica todos los cambios
+
+git checkout -> Cambia de rama
